@@ -1,0 +1,8 @@
+.retangulo {
+ 
+ width:320px;
+ height:180px;
+ border: 5px solid #00f;
+ background: #696969;
+ margin-top: 10px;
+ }
